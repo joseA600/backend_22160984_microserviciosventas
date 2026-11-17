@@ -6,7 +6,7 @@ Backend hecho con Java 21 y Spring Boot 3.4.5. Administra los productos y las ve
 
 - Java 21 (JDK)
 - yo use Docker Desktop
-- (Opcional) VS Code con la extension de Java
+
 
 ## Como usarlo en tu computadora
 
