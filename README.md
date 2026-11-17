@@ -5,7 +5,7 @@ Backend hecho con Java 21 y Spring Boot 3.4.5. Administra los productos y las ve
 ## Que necesitas tener instalado
 
 - Java 21 (JDK)
-- Docker Desktop
+- yo use Docker Desktop
 - (Opcional) VS Code con la extension de Java
 
 ## Como usarlo en tu computadora
@@ -36,7 +36,6 @@ Backend hecho con Java 21 y Spring Boot 3.4.5. Administra los productos y las ve
 
 ## Conexion a la base de datos
 
-El proyecto solo guarda la conexion, no la base de datos. Se lee de variables de entorno y si no existen usa los valores por defecto (PostgreSQL local):
 
 ```
 DB_URL=jdbc:postgresql://localhost:5432/microservicio_db
